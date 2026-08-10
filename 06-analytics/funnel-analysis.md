@@ -2,11 +2,7 @@
 
 ## Why funnel analysis matters
 
-A topline metric can tell me that performance changed.
-
-It does not tell me where the problem sits.
-
-For example:
+A topline metric can tell me that performance changed. It does not tell me where the problem sits. For example:
 
 If CPA increases, the cause could be:
 
@@ -33,17 +29,11 @@ At the start of the optimisation period:
 - Website conversion rate was approximately **1.2%**
 - Paid acquisition CPA was approximately **€100**
 
-The website conversion rate gives us a useful starting point.
-
-At 40,000 monthly visits and 1.2% conversion:
+The website conversion rate gives us a useful starting point. At 40,000 monthly visits and 1.2% conversion:
 
 **40,000 × 1.2% = approximately 480 conversions**
 
-This is a simplified website-level calculation.
-
-It should not be treated as the exact customer count behind paid-media CPA because the metrics cover different traffic and attribution scopes.
-
-The purpose is to understand the scale of the conversion opportunity.
+This is a simplified website-level calculation. It should not be treated as the exact customer count behind paid-media CPA because the metrics cover different traffic and attribution scopes. The purpose is to understand the scale of the conversion opportunity.
 
 ---
 
