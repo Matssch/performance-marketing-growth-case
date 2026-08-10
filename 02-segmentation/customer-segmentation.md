@@ -18,7 +18,7 @@ Rather than forcing every prospect through one standard funnel, we worked with d
 
 The model was structured around three broad customer groups.
 
-### 1–25 | Self-service
+### 1 – 25 | Self-service
 
 Smaller customers were primarily suited to a digital self-service journey. The objective was to make acquisition and conversion as simple and scalable as possible. The journey looked roughly like:
 
@@ -41,7 +41,7 @@ The key commercial question was:
 
 For this segment, the economics depend heavily on digital acquisition efficiency.
 
-## 21–50 | Hybrid journey
+## 21 – 50 | Hybrid journey
 
 As the customer became larger, the buying process became more complex. There could be more questions, more users, more operational requirements and a greater need for human interaction. The journey became more hybrid:
 
@@ -53,7 +53,7 @@ This meant success could no longer be measured only through direct online conver
 
 Lead quality and progression became more important.
 
-## 50+ | Sales-led
+## 50 + | Sales-led
 
 Larger accounts were increasingly suited to a Sales-led journey. The potential commercial value was higher, but so was the complexity of the buying process. The journey looked more like:
 
@@ -83,36 +83,12 @@ But that would create the wrong behaviour for larger opportunities.
 
 The funnel therefore needed to reflect the customer.
 
-```text
-1–20
-Demand
-  ↓
-Website
-  ↓
-Self-service conversion
-  ↓
-Customer
+#### 1 – 20
+Demand → Website → Self-service conversion → Customer
+
+#### 21 – 50
+Demand → Website → Qualification → Sales / self-service → Customer
 
 
-21–50
-Demand
-  ↓
-Website
-  ↓
-Qualification
-  ↓
-Sales / self-service
-  ↓
-Customer
-
-
-50+
-Demand
-  ↓
-Account engagement
-  ↓
-Qualified opportunity
-  ↓
-Sales process
-  ↓
-Customer
+#### 50+
+Demand → Account engagement → Qualified opportunity → Sales process → Customer
