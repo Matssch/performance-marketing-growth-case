@@ -2,9 +2,7 @@
 
 ## Why the strategy changes by segment
 
-Customer size does not only change the buying journey.
-
-It also changes:
+Customer size does not only change the buying journey. It also changes:
 
 - What message is most relevant
 - Which channels make sense
@@ -12,21 +10,15 @@ It also changes:
 - How much Sales should be involved
 - Which KPI matters most
 
-The mistake would be to run one broad campaign and expect every customer group to behave in the same way.
-
-The better approach is to adapt the growth motion to the economics and complexity of each segment.
+The mistake would be to run one broad campaign and expect every customer group to behave in the same way. The better approach is to adapt the growth motion to the economics and complexity of each segment.
 
 ---
 
-## Segment 1 — 1–20 customers
+## Segment 1 | 1 – 20 customers
 
 ### Commercial role
 
-This is the most scalable segment.
-
-The customer value is lower, but the buying journey can be much more digital and self-service.
-
-The goal is therefore:
+This is the most scalable segment. The customer value is lower, but the buying journey can be much more digital and self-service. The goal is therefore:
 
 **Acquire efficiently and convert with as little friction as possible.**
 
@@ -87,15 +79,11 @@ This segment is mainly about **scale and efficiency**.
 
 ---
 
-## Segment 2 — 21–50 customers
+## Segment 2 | 21 – 50 customers
 
 ### Commercial role
 
-This segment sits between self-service and Sales-led acquisition.
-
-The potential value is higher, but the buying journey is also more complex.
-
-The goal becomes:
+This segment sits between self-service and Sales-led acquisition. The potential value is higher, but the buying journey is also more complex. The goal becomes:
 
 **Keep the digital journey efficient while creating the option for Sales support when needed.**
 
@@ -134,9 +122,7 @@ This is where CTA strategy becomes more important because forcing everyone into 
 
 ### Sales involvement
 
-Selective.
-
-Sales should become involved when:
+Selective. Sales should become involved when:
 
 - Customer value is high enough
 - Buying complexity increases
@@ -167,15 +153,11 @@ This segment is mainly about **balancing efficiency with commercial support**.
 
 ---
 
-## Segment 3 — 50+ customers
+## Segment 3 | 50 + customers
 
 ### Commercial role
 
-This is the highest-value segment, but also the least suitable for a pure self-service model.
-
-The buying process may involve multiple stakeholders, more questions and a stronger need for trust.
-
-The goal becomes:
+This is the highest-value segment, but also the least suitable for a pure self-service model. The buying process may involve multiple stakeholders, more questions and a stronger need for trust. The goal becomes:
 
 **Create and identify high-value demand, then help Sales convert it.**
 
