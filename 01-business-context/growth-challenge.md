@@ -54,7 +54,6 @@ Reduce unnecessary friction between acquisition, conversion and onboarding.
 One of the most important conclusions was that acquisition performance could not be managed only inside the advertising platforms. If website conversion improves, the economics of every acquisition channel improve with it.For example:
 
 + At a 1.2% conversion rate, 10,000 visits generate approximately 140 conversions.
-
 + At a 2.4% conversion rate, the same 10,000 visits generate approximately 280 conversions.
 
 The traffic volume has not changed, the commercial output has doubled. This made CRO one of the strongest growth levers available.
