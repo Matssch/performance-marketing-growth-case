@@ -152,27 +152,15 @@ For example:
 
 ### Test 1 | Message
 
-**Administrative simplicity**
-
-vs
-
-**Cost control**
+**Administrative simplicity** vs **Cost control**
 
 ### Test 2 | Proof
 
-Product benefit
-
-vs
-
-Customer proof
+Product benefit vs Customer proof
 
 ### Test 3 | CTA
 
-**Learn more**
-
-vs
-
-**Get started**
+**Learn more** vs **Get started**
 
 Each test should answer a question that can improve future campaigns.
 
@@ -180,9 +168,7 @@ Each test should answer a question that can improve future campaigns.
 
 ## Funnel measurement
 
-Paid Social should not be judged only inside the advertising platform.
-
-The journey looks more like:
+Paid Social should not be judged only inside the advertising platform. The journey looks more like:
 
 ```text
 Impression
@@ -315,9 +301,7 @@ Is the channel adding demand rather than simply taking credit for demand already
 
 ### Scalability
 
-What happens when spend increases?
-
-If doubling spend also doubles CPA, the apparent opportunity may not be very scalable.
+What happens when spend increases? If doubling spend also doubles CPA, the apparent opportunity may not be very scalable.
 
 ---
 
