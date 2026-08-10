@@ -2,15 +2,11 @@
 
 ## The purpose of budget optimisation
 
-Budget optimisation is not about moving money toward whichever channel has the lowest CPA this month.
-
-The objective is:
+Budget optimisation is not about moving money toward whichever channel has the lowest CPA this month. The objective is:
 
 **Put the next euro where it has the strongest expected commercial return.**
 
-That requires more context than one efficiency metric.
-
-I would look at:
+That requires more context than one efficiency metric. I would look at:
 
 - CPA
 - Customer volume
@@ -28,25 +24,18 @@ A channel can look efficient at its current spend level and still be a poor plac
 
 ## Starting point
 
-The digital acquisition budget was approximately:
-
-**€35K per month**
-
+The digital acquisition budget was approximately: **€35K per month**
 with roughly:
 
 - €30K Paid Search
 - €5K Paid Social
 
-Paid Search was already the dominant acquisition channel.
-
-That created two questions:
+Paid Search was already the dominant acquisition channel. That created two questions:
 
 1. Can Search continue to scale efficiently?
 2. Can another channel create enough incremental value to reduce dependency on Search?
 
-The answer cannot come from channel preference.
-
-It needs to come from performance.
+The answer cannot come from channel preference. It needs to come from performance.
 
 ---
 
@@ -60,56 +49,25 @@ Average CPA tells me:
 
 **How efficiently has the total channel budget performed?**
 
-For example:
+For example: €30K spend and 430 customers
+CPA: **€69.77**
 
-€30K spend  
-430 customers
-
-CPA:
-
-**€69.77**
-
-That looks strong.
-
-But it does not tell me whether I should add another €5K.
+That looks strong, but it does not tell me whether I should add another €5K.
 
 ---
 
 ## Marginal CPA
 
-Marginal CPA asks:
+Marginal CPA asks: **What did the additional budget generate?** 
++ Imagine Search moves from: €25K → €30K
++ customers move from: 400 → 440
++ The additional €5K generated: 40 additional customers
++ Marginal CPA: **€125**
 
-**What did the additional budget generate?**
+The historical average may still look healthy, but the additional investment is much less efficient. This is where the next budget decision becomes interesting.
 
-Imagine Search moves from:
-
-€25K → €30K
-
-and customers move from:
-
-400 → 440
-
-The additional €5K generated:
-
-40 additional customers
-
-Marginal CPA:
-
-**€125**
-
-The historical average may still look healthy.
-
-But the additional investment is much less efficient.
-
-This is where the next budget decision becomes interesting.
-
-Instead of asking:
-
-**Which channel has the best average CPA?**
-
-I ask:
-
-**Where does the next €5K have the highest expected return?**
+Instead of asking: **Which channel has the best average CPA?**
+I ask: **Where does the next €5K have the highest expected return?**
 
 ---
 
@@ -130,9 +88,7 @@ This tells me how efficiently the channel is currently operating.
 
 ### 2. Scale potential
 
-Can the channel absorb additional budget?
-
-For Search I would look at:
+Can the channel absorb additional budget? For Search I would look at:
 
 - Search volume
 - Impression share
@@ -152,9 +108,7 @@ A channel can perform well but have very little room left to scale.
 
 ### 3. Customer quality
 
-Are the acquired customers valuable?
-
-I would look at:
+Are the acquired customers valuable? I would look at:
 
 - Activation
 - Retention
@@ -166,11 +120,7 @@ A €100 CPA for a high-value customer may be better than a €60 CPA for a low-
 
 ### 4. Incrementality
 
-Is the investment actually creating additional customers?
-
-Or is the channel mainly taking credit for demand that already existed?
-
-This becomes particularly important for:
+Is the investment actually creating additional customers? Or is the channel mainly taking credit for demand that already existed? This becomes particularly important for:
 
 - Brand Search
 - Retargeting
@@ -180,18 +130,14 @@ Reported conversion is not always incremental growth.
 
 ### 5. Strategic value
 
-Some investments create capabilities beyond immediate CPA.
-
-Examples:
+Some investments create capabilities beyond immediate CPA. Examples:
 
 - Developing Paid Social reduces dependency on Search
 - CRO improves efficiency across multiple acquisition channels
 - SEO creates compounding organic demand
 - CRM can improve customer value after acquisition
 
-This does not mean ignoring short-term performance.
-
-It means looking at both:
+This does not mean ignoring short-term performance. It means looking at both:
 
 **Short-term efficiency + long-term growth capacity**
 
@@ -207,18 +153,12 @@ Imagine the current performance looks like:
 | Paid Social | €5K | €72 | €78 | High |
 | CRO | — | — | — | High |
 
-At first glance, Search and Social have similar average CPA.
-
-But marginal performance tells a different story.
-
-Additional Search budget may acquire customers around €105.
-
-Paid Social may still have room around €78.
-
-CRO could also improve the conversion economics of both channels.
+At first glance, Search and Social have similar average CPA, but marginal performance tells a different story. 
++ Additional Search budget may acquire customers around €105.
++ Paid Social may still have room around €78.
++ CRO could also improve the conversion economics of both channels.
 
 My decision would therefore not automatically be:
-
 **Increase Search because Search historically produced the most customers.**
 
 A better allocation could be:
