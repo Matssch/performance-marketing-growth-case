@@ -18,7 +18,7 @@ Rather than forcing every prospect through one standard funnel, we worked with d
 
 The model was structured around three broad customer groups.
 
-### 1–20 — Self-service
+### 1–25 | Self-service
 
 Smaller customers were primarily suited to a digital self-service journey. The objective was to make acquisition and conversion as simple and scalable as possible. The journey looked roughly like:
 
@@ -41,13 +41,9 @@ The key commercial question was:
 
 For this segment, the economics depend heavily on digital acquisition efficiency.
 
-## 21–50 — Hybrid journey
+## 21–50 | Hybrid journey
 
-As the customer became larger, the buying process became more complex.
-
-There could be more questions, more users, more operational requirements and a greater need for human interaction.
-
-The journey became more hybrid:
+As the customer became larger, the buying process became more complex. There could be more questions, more users, more operational requirements and a greater need for human interaction. The journey became more hybrid:
 
 **Marketing → Website → Qualification → Sales interaction → Customer**
 
@@ -57,19 +53,13 @@ This meant success could no longer be measured only through direct online conver
 
 Lead quality and progression became more important.
 
-## 50+ — Sales-led
+## 50+ | Sales-led
 
-Larger accounts were increasingly suited to a Sales-led journey.
-
-The potential commercial value was higher, but so was the complexity of the buying process.
-
-The journey looked more like:
+Larger accounts were increasingly suited to a Sales-led journey. The potential commercial value was higher, but so was the complexity of the buying process. The journey looked more like:
 
 **Demand → Account engagement → Lead / enquiry → Sales → Commercial process → Customer**
 
-Marketing's role changed.
-
-Instead of only driving direct online conversion, Marketing needed to help:
+Marketing's role changed. Instead of only driving direct online conversion, Marketing needed to help:
 
 - Create demand
 - Generate relevant account engagement
@@ -88,9 +78,8 @@ Without segmentation, it would be easy to optimise everything toward one outcome
 
 But that would create the wrong behaviour for larger opportunities.
 
-For a small customer, direct conversion could be exactly the right outcome.
-
-For a larger account, a Sales conversation could be much more valuable.
++ For a small customer, direct conversion could be exactly the right outcome.
++ For a larger account, a Sales conversation could be much more valuable.
 
 The funnel therefore needed to reflect the customer.
 
