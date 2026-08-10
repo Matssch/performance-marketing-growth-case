@@ -1,4 +1,4 @@
-# Performance Marketing Growth Case
+# Performance marketing growth case
 How I connected paid acquisition, conversion optimisation, segmentation and lifecycle marketing to improve customer growth.
 
 ## Overview
@@ -28,7 +28,7 @@ During this period, website conversion increased from approximately 1.2% to 2.6%
 + Growth experimentation
 
 
-### Data & Confidentially
+### Data & confidentially
 The business contect and high-level results in this are based on my real experience. They are an indication to the actuall numbers. Where detailed campaign, customer or financial data can't be shared, I use synthetic data based on the same type of growth problem and operating model.
 
 _No confidential customer-level of commercially sensitive company data is included._
