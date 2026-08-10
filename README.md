@@ -13,7 +13,7 @@ Traffic → Conversion → Onboarding → Customer
 
 
 During this period, website conversion increased from approximately 1.2% to 2.6%, while CPA moved from approximately €100 toward €75. Traffic also grew from approximately 40.000 to 50.000 monthly visits, with peak acquisition periods reaching approximately 1,700 new customers per month. This repository breaks down how I approached that growth problem, the decisions behind it and how acquisition, conversion and customer journey optimisation worked together.
-__
+
 
 ### What this case covers
 + Performance marketing
@@ -26,9 +26,9 @@ __
 + Funnel measurement
 + Budget optimisation
 + Growth experimentation
-__
+
 
 ### Data & Confidentially
 The business contect and high-level results in this are based on my real experience. They are an indication to the actuall numbers. Where detailed campaign, customer or financial data can't be shared, I use synthetic data based on the same type of growth problem and operating model.
 
-No confidential customer-level of commercially sensitive company data is included.
+_No confidential customer-level of commercially sensitive company data is included._
