@@ -255,13 +255,8 @@ One of the strategic benefits of Paid Social was reducing dependence on Search. 
 
 Adding another acquisition source creates optionality , but diversification only creates value if the new channel can eventually prove its commercial role.
 
-The goal was never:
-
-**Spend on more channels.**
-
-The goal was:
-
-**Develop more channels that can contribute to profitable growth.**
+The goal was never: **Spend on more channels.**
+The goal was: **Develop more channels that can contribute to profitable growth.**
 
 ---
 
@@ -330,11 +325,7 @@ Learning
 
 Every campaign should create two outputs:
 
-**Customers**
-
-and
-
-**Information that improves the next campaign.**
+**Customers** and **Information that improves the next campaign.**
 
 That second output is particularly important when building a new channel.
 
@@ -342,9 +333,7 @@ That second output is particularly important when building a new channel.
 
 ## What Paid Social added to the wider growth model
 
-Introducing Paid Social was not only about creating another media line in the budget.
-
-It added another way to:
+Introducing Paid Social was not only about creating another media line in the budget. It added another way to:
 
 * Reach new audiences
 * Test propositions
