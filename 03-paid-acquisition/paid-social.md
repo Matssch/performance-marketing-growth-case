@@ -2,21 +2,13 @@
 
 ## Why I introduced Paid Social
 
-Paid Search was already the largest digital acquisition channel for the mobility company.
-
-That worked well for capturing existing demand, but it also created a limitation:
+Paid Search was already the largest digital acquisition channel for the mobility company. That worked well for capturing existing demand, but it also created a limitation:
 
 **Search can only capture people who are already searching.**
 
-To keep growing, we needed additional ways to reach relevant customers earlier in their decision journey.
+To keep growing, we needed additional ways to reach relevant customers earlier in their decision journey. That was the reason for introducing Paid Social as an additional acquisition channel.
 
-That was the reason for introducing Paid Social as an additional acquisition channel.
-
-The initial monthly investment was approximately **€5K**, allowing us to test audiences, messaging and creative without immediately shifting a large part of the acquisition budget away from proven channels.
-
-The objective was not to replace Paid Search.
-
-It was to build another scalable source of customer acquisition.
+The initial monthly investment was approximately **€5K**, allowing us to test audiences, messaging and creative without immediately shifting a large part of the acquisition budget away from proven channels. The objective was not to replace Paid Search. It was to build another scalable source of customer acquisition.
 
 ---
 
@@ -34,13 +26,7 @@ The customer is actively looking for a solution.
 
 **Relevant audience → Create interest → Generate demand**
 
-The customer may fit the target audience but may not currently be searching for the product.
-
-That difference matters.
-
-A lower-intent channel should not automatically be expected to produce the same click-through rate, conversion rate or CPA as Search from day one.
-
-The better question was:
+The customer may fit the target audience but may not currently be searching for the product. That difference matters. A lower-intent channel should not automatically be expected to produce the same click-through rate, conversion rate or CPA as Search from day one. The better question was:
 
 **Can Paid Social create incremental customers at an acquisition cost that becomes commercially scalable?**
 
@@ -72,17 +58,13 @@ Does the page continue the same message as the ad?
 
 ### Conversion
 
-Does the traffic eventually create customers?
-
-Only after those questions start producing clear answers does scaling make sense.
+Does the traffic eventually create customers? Only after those questions start producing clear answers does scaling make sense.
 
 ---
 
 ## Audience strategy
 
-Paid Social allowed us to move beyond keyword intent and think more directly about customer characteristics.
-
-Possible audience signals included:
+Paid Social allowed us to move beyond keyword intent and think more directly about customer characteristics. Possible audience signals included:
 
 * Entrepreneurship
 * Business ownership
@@ -96,17 +78,13 @@ I would structure the audience approach in three layers.
 
 ### 1. Prospecting
 
-Reach new potential customers who fit the broad target profile.
-
-Purpose:
+Reach new potential customers who fit the broad target profile. Purpose:
 
 **Find additional demand outside the existing Search audience.**
 
 ### 2. Retargeting
 
-Reach people who had already interacted with the company.
-
-Examples:
+Reach people who had already interacted with the company. Examples:
 
 * Website visitors
 * Product-page visitors
@@ -119,11 +97,7 @@ Purpose:
 
 ### 3. First-party audience learning
 
-Where enough customer data is available, existing customer behaviour can help improve targeting and audience understanding.
-
-The important part is not just creating lookalike audiences.
-
-It is understanding:
+Where enough customer data is available, existing customer behaviour can help improve targeting and audience understanding. The important part is not just creating lookalike audiences. It is understanding:
 
 **What characteristics do our strongest customers actually share?**
 
@@ -133,13 +107,7 @@ That learning can then feed back into segmentation and broader acquisition strat
 
 ## Message strategy
 
-Search starts with a question the customer already has.
-
-Paid Social often needs to create the question first.
-
-That means the message needs to work differently.
-
-Instead of starting with the product, I would often start with the customer problem.
+Search starts with a question the customer already has. Paid Social often needs to create the question first, that means the message needs to work differently. Instead of starting with the product, I would often start with the customer problem.
 
 For example:
 
@@ -159,11 +127,7 @@ This starts with the outcome rather than the product.
 
 **More control over mobility costs, without more admin**
 
-This connects the operational problem with a commercial benefit.
-
-Different messages can then be tested against different audiences.
-
-The goal is to understand:
+This connects the operational problem with a commercial benefit. Different messages can then be tested against different audiences, the goal is to understand:
 
 **Which combination of audience + problem + proposition creates the strongest response?**
 
@@ -171,11 +135,7 @@ The goal is to understand:
 
 ## Creative testing
 
-Paid Social also creates a stronger role for creative than Search.
-
-The ad needs to earn attention before it can communicate the proposition.
-
-I would test variables such as:
+Paid Social also creates a stronger role for creative than Search. The ad needs to earn attention before it can communicate the proposition. I would test variables such as:
 
 * Hook
 * Headline
@@ -186,17 +146,11 @@ I would test variables such as:
 * CTA
 * Format
 
-But I would not change everything at once.
-
-If five variables change between two ads, the result may tell us which ad won.
-
-It tells us very little about why.
-
-The better approach is structured testing.
+But I would not change everything at once. If five variables change between two ads, the result may tell us which ad won, it tells us very little about why. The better approach is structured testing.
 
 For example:
 
-### Test 1 — Message
+### Test 1 | Message
 
 **Administrative simplicity**
 
@@ -204,7 +158,7 @@ vs
 
 **Cost control**
 
-### Test 2 — Proof
+### Test 2 | Proof
 
 Product benefit
 
@@ -212,7 +166,7 @@ vs
 
 Customer proof
 
-### Test 3 — CTA
+### Test 3 | CTA
 
 **Learn more**
 
@@ -280,13 +234,7 @@ This final level becomes increasingly important as the channel grows.
 
 ## CPA and channel maturity
 
-A new acquisition channel should not receive unlimited patience.
-
-But it also should not be killed after one weak week.
-
-Paid Search already benefits from existing intent and historical optimisation.
-
-Paid Social needs time to answer different questions:
+A new acquisition channel should not receive unlimited patience, but it also should not be killed after one weak week. Paid Search already benefits from existing intent and historical optimisation. Paid Social needs time to answer different questions:
 
 * Is the audience correct?
 * Is the proposition strong enough?
@@ -311,9 +259,7 @@ Learning still needs a budget.
 
 ## Diversification
 
-One of the strategic benefits of Paid Social was reducing dependence on Search.
-
-A performance model that depends heavily on one channel becomes vulnerable to:
+One of the strategic benefits of Paid Social was reducing dependence on Search. A performance model that depends heavily on one channel becomes vulnerable to:
 
 * Increasing CPCs
 * Competitor activity
@@ -321,9 +267,7 @@ A performance model that depends heavily on one channel becomes vulnerable to:
 * Platform changes
 * Changes in customer behaviour
 
-Adding another acquisition source creates optionality.
-
-But diversification only creates value if the new channel can eventually prove its commercial role.
+Adding another acquisition source creates optionality , but diversification only creates value if the new channel can eventually prove its commercial role.
 
 The goal was never:
 
@@ -337,11 +281,7 @@ The goal was:
 
 ## Paid Social and CRO
 
-The landing experience remained important.
-
-A social user normally enters the website with less intent than someone clicking a high-intent Search ad.
-
-That can create a need for:
+The landing experience remained important. A social user normally enters the website with less intent than someone clicking a high-intent Search ad. That can create a need for:
 
 * Clearer problem framing
 * Faster explanation of the proposition
@@ -349,19 +289,13 @@ That can create a need for:
 * Lower-friction next steps
 * Better message continuity
 
-This means the same landing page does not automatically work equally well for every acquisition source.
-
-The page should reflect the context the visitor came from.
+This means the same landing page does not automatically work equally well for every acquisition source. The page should reflect the context the visitor came from.
 
 ---
 
 ## How I would decide whether to scale
 
-I would not scale based on CTR alone.
-
-And I would not automatically scale because one campaign temporarily produced a low CPA.
-
-I would want evidence across:
+I would not scale based on CTR alone and I would not automatically scale because one campaign temporarily produced a low CPA. I would want evidence across:
 
 ### Volume
 
