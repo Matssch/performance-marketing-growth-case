@@ -1,3 +1,7 @@
+-- All campaign data used in this analysis is synthetic.
+-- It recreates the structure and scale of the real growth problem
+-- without exposing confidential company information.
+
 /*
 Performance Marketing Growth Case
 ---------------------------------
