@@ -12,7 +12,6 @@ Customer size does not only change the buying journey. It also changes:
 
 The mistake would be to run one broad campaign and expect every customer group to behave in the same way. The better approach is to adapt the growth motion to the economics and complexity of each segment.
 
----
 
 ## Segment 1 | 1 – 20 customers
 
@@ -233,7 +232,7 @@ This segment is mainly about **quality and commercial value**.
 
 ## Segment comparison
 
-| Area | 1–20 | 21–50 | 50+ |
+| Area | 1 – 20 | 21 – 50 | 50 + |
 |---|---|---|---|
 | Primary motion | Self-service | Hybrid | Sales-led |
 | Main objective | Scale | Efficient qualification | High-value opportunities |
@@ -247,22 +246,14 @@ This segment is mainly about **quality and commercial value**.
 
 ## Why this matters for performance marketing
 
-The same channel can perform differently depending on the segment.
-
-For example, Paid Search may work very well for self-service demand capture.
-
-Paid Social may be more valuable when reaching larger business audiences or supporting demand creation.
-
-A higher CPA can still be acceptable if:
+The same channel can perform differently depending on the segment. For example, Paid Search may work very well for self-service demand capture. Paid Social may be more valuable when reaching larger business audiences or supporting demand creation. A higher CPA can still be acceptable if:
 
 - Customer value is higher
 - Opportunity quality is stronger
 - Sales conversion is better
 - Retention is stronger
 
-That is why segment economics need to sit behind channel optimisation.
-
-The question is not only:
+That is why segment economics need to sit behind channel optimisation.The question is not only:
 
 **Which channel has the lowest CPA?**
 
@@ -276,6 +267,4 @@ The better question is:
 
 **Different customer economics require different growth motions.**
 
-The best funnel is not the one that looks simplest in a dashboard.
-
-It is the one that matches how the customer actually buys.
+The best funnel is not the one that looks simplest in a dashboard, it is the one that matches how the customer actually buys.
