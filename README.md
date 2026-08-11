@@ -1,6 +1,12 @@
 # Performance marketing growth case
 How I connected paid acquisition, conversion optimisation, segmentation and lifecycle marketing to improve customer growth.
 
+<p align="center">
+  <img src="PerformanceMarketingGrowthCase.png"
+       alt="Performance Marketing Growth Case"
+       width="850">
+</p>
+
 ## Overview
 This case is based on my work, a digital mobility platform for entrepreneurs and businesses. My responsibility went beyond managing paid media. I worked across the customer acquisition journey, including paid acquisition, website optimisation, CRO, segmentation, CRM and onboarding. The main growth challenge was straightforward:
 
